@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathwik Potu</h1>
+<h1 align="center">Hi 👋, I'm Sathwik </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Computer science engineering with AI-ML specialisation**
